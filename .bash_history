@@ -32,3 +32,19 @@ vim .gitignore
 git status
 git status
 vim readmeme
+git status
+git diff
+git diff readme.txt
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git push origin master
+git status
+git checkout master
+git status
+git status
