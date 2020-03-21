@@ -1,6 +1,6 @@
 [user]
 	name = weihui
-	email = 13811029537@163.com
+	email = weihui@test.com
 [difftool "sourcetree"]
 	cmd = '' \"$LOCAL\" \"$REMOTE\"
 [mergetool "sourcetree"]
